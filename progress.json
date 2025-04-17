@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-10-06T13:07:58.985Z",
+  "items": {
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-04-17T15:49:53.489Z",
+      "last_pushed_at": "2025-04-17T15:49:53.489Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-04-17T15:56:52.689Z",
+      "last_pushed_at": "2025-04-17T15:56:52.689Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2025-04-17T16:31:25.191Z",
+      "last_pushed_at": "2025-04-17T16:31:25.191Z",
+      "language": "python",
+      "lines": 14
+    }
+  }
+}

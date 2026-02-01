@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:01.509Z",
+  "generated_at": "2026-10-06T13:08:03.650Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -78,6 +78,71 @@
       "last_pushed_at": "2026-01-31T23:32:07.412Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-02-01T00:01:27.949Z",
+      "last_pushed_at": "2026-02-01T00:01:27.949Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-02-01T00:31:25.286Z",
+      "last_pushed_at": "2026-02-01T00:31:25.286Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-02-01T00:40:05.470Z",
+      "last_pushed_at": "2026-02-01T00:40:05.470Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-02-01T01:24:17.000Z",
+      "last_pushed_at": "2026-02-01T01:24:17.000Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-02-01T23:55:45.925Z",
+      "last_pushed_at": "2026-02-01T23:55:45.925Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

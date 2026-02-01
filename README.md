@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,12 +12,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-01 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-02-01 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-31 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
+| [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-02-01 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-01-31 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-02-01 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-17 | [solution](problems/0017-k-means-clustering) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-01-31 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-02-01 | [solution](problems/0041-simple-convolutional-2d-layer) |
 
 ---
 

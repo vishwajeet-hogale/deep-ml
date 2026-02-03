@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:05.909Z",
+  "generated_at": "2026-10-06T13:08:07.970Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -156,6 +156,97 @@
       "last_pushed_at": "2026-02-02T03:04:33.572Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-02-03T06:29:11.442Z",
+      "last_pushed_at": "2026-02-03T06:29:11.442Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-02-03T06:59:49.619Z",
+      "last_pushed_at": "2026-02-03T06:59:49.619Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-02-03T07:32:12.770Z",
+      "last_pushed_at": "2026-02-03T07:32:12.770Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-02-03T07:44:10.727Z",
+      "last_pushed_at": "2026-02-03T07:44:10.727Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-02-03T20:09:57.956Z",
+      "last_pushed_at": "2026-02-03T20:09:57.956Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-02-03T20:41:10.360Z",
+      "last_pushed_at": "2026-02-03T20:41:10.360Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-02-03T21:05:18.784Z",
+      "last_pushed_at": "2026-02-03T21:05:18.784Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

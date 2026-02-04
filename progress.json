@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:07.970Z",
+  "generated_at": "2026-10-06T13:08:10.531Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -247,6 +247,45 @@
       "last_pushed_at": "2026-02-03T21:05:18.784Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-02-04T18:00:05.618Z",
+      "last_pushed_at": "2026-02-04T18:00:05.618Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-02-04T18:14:13.956Z",
+      "last_pushed_at": "2026-02-04T18:14:13.956Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-02-04T18:19:48.495Z",
+      "last_pushed_at": "2026-02-04T18:19:48.495Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }

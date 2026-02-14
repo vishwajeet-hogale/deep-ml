@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**23** solved · 23 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-02-01 | [solution](problems/0321-bleu-score-for-text-generation) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-02-14 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-02-03 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-01-31 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-02-03 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |

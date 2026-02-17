@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:12.617Z",
+  "generated_at": "2026-10-06T13:08:14.672Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -299,6 +299,32 @@
       "last_pushed_at": "2026-02-14T23:23:14.275Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:190": {
+      "kind": "problem",
+      "id": "190",
+      "title": "Overlapping Max Pooling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/190",
+      "path": "problems/0190-overlapping-max-pooling",
+      "first_solved_at": "2026-02-17T19:27:52.600Z",
+      "last_pushed_at": "2026-02-17T19:27:52.600Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:393": {
+      "kind": "problem",
+      "id": "393",
+      "title": "Implement Variational Autoencoder (VAE) Loss (ELBO)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/393",
+      "path": "problems/0393-implement-variational-autoencoder-vae-loss-elbo",
+      "first_solved_at": "2026-02-17T20:58:31.028Z",
+      "last_pushed_at": "2026-02-17T20:58:31.028Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

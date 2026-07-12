@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 29 problems · 2 labs · 0 math
+**32** solved · 30 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-02-03 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-03 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-02-01 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-07-12 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-31 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-17 | [solution](problems/0001-matrix-vector-dot-product) |

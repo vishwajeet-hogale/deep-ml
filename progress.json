@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:25.204Z",
+  "generated_at": "2026-10-06T13:08:27.069Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -429,6 +429,136 @@
       "last_pushed_at": "2026-07-13T01:41:58.969Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:800": {
+      "kind": "problem",
+      "id": "800",
+      "title": "Learning Curve Generator for Bias-Variance Diagnosis",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/800",
+      "path": "problems/0800-learning-curve-generator-for-bias-variance-diagnosis",
+      "first_solved_at": "2026-08-09T03:37:36.324Z",
+      "last_pushed_at": "2026-08-09T03:37:36.324Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-08-09T03:48:43.642Z",
+      "last_pushed_at": "2026-08-09T03:48:43.642Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2026-08-09T04:11:39.055Z",
+      "last_pushed_at": "2026-08-09T04:11:39.055Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:276": {
+      "kind": "problem",
+      "id": "276",
+      "title": "Implement ROC Curve Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/276",
+      "path": "problems/0276-implement-roc-curve-calculation",
+      "first_solved_at": "2026-08-09T06:30:11.325Z",
+      "last_pushed_at": "2026-08-09T06:30:11.325Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:278": {
+      "kind": "problem",
+      "id": "278",
+      "title": "Implement Precision-Recall Curve",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/278",
+      "path": "problems/0278-implement-precision-recall-curve",
+      "first_solved_at": "2026-08-09T07:03:42.657Z",
+      "last_pushed_at": "2026-08-09T07:03:42.657Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-08-09T08:06:37.347Z",
+      "last_pushed_at": "2026-08-09T08:06:37.347Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-08-09T08:25:22.960Z",
+      "last_pushed_at": "2026-08-09T08:25:22.960Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-08-09T08:39:14.775Z",
+      "last_pushed_at": "2026-08-09T08:39:14.775Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:490": {
+      "kind": "problem",
+      "id": "490",
+      "title": "Build Scaled Dot-Product Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/490",
+      "path": "problems/0490-build-scaled-dot-product-attention",
+      "first_solved_at": "2026-08-09T22:20:15.041Z",
+      "last_pushed_at": "2026-08-09T22:20:15.041Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-08-09T22:33:28.367Z",
+      "last_pushed_at": "2026-08-09T22:33:28.367Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }

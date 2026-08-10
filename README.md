@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 41 problems · 2 labs · 0 math
+**44** solved · 42 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-08-09 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-08-09 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-02-03 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-08-10 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-02-03 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-03 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-02-01 | [solution](problems/0043-implement-ridge-regression-loss-function) |

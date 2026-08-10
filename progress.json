@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:08:27.069Z",
+  "generated_at": "2026-10-06T13:08:29.461Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -559,6 +559,19 @@
       "last_pushed_at": "2026-08-09T22:33:28.367Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:901": {
+      "kind": "problem",
+      "id": "901",
+      "title": "Implement Dropout from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/901",
+      "path": "problems/0901-implement-dropout-from-scratch",
+      "first_solved_at": "2026-08-10T22:59:58.963Z",
+      "last_pushed_at": "2026-08-10T22:59:58.963Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

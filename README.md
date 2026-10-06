@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 54 problems · 9 labs · 0 math
+**71** solved · 62 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,10 +12,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-10-06 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-01 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-02-03 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-02-03 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-09 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
+| [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-06 | [solution](problems/1232-conv2d-output-shape) |
+| [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-06 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-06 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-08-09 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-08-09 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
@@ -31,11 +34,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-06 | [solution](problems/1228-mean-squared-error-from-scratch) |
+| [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-06 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-06 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-03-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-06 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-03-16 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-03-16 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-06 | [solution](problems/1233-apply-a-2d-convolution) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-10-06 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-06 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-02-01 | [solution](problems/0321-bleu-score-for-text-generation) |
@@ -59,8 +64,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-08-09 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-08-09 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-06 | [solution](problems/1227-numerically-stable-softmax) |
+| [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-06 | [solution](problems/1236-one-adam-update-step) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-06 | [solution](problems/1219-one-training-step) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-02-17 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-01-31 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-06 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-02-01 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-03-16 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-09 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |

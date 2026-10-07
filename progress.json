@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:33:08.080Z",
+  "generated_at": "2026-10-07T17:36:30.305Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -767,6 +767,19 @@
       "last_pushed_at": "2026-10-07T17:33:07.073Z",
       "language": "python",
       "lines": 42
+    },
+    "lab:3": {
+      "kind": "lab",
+      "id": "3",
+      "title": "MNIST: Design Your Own Pytorch Optimizer",
+      "difficulty": "medium",
+      "category": "Optimizers",
+      "url": "https://www.deep-ml.com/labs/3",
+      "path": "labs/0003-mnist-design-your-own-pytorch-optimizer",
+      "first_solved_at": "2026-10-07T17:36:29.726Z",
+      "last_pushed_at": "2026-10-07T17:36:29.726Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }

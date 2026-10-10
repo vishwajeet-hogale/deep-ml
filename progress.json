@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:03:39.974Z",
+  "generated_at": "2026-10-10T18:26:30.975Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -975,6 +975,19 @@
       "last_pushed_at": "2026-10-09T20:03:03.317Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1395": {
+      "kind": "problem",
+      "id": "1395",
+      "title": "IoU and Mean Average Precision for Object Detection",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1395",
+      "path": "problems/1395-iou-and-mean-average-precision-for-object-detection",
+      "first_solved_at": "2026-10-10T18:25:59.059Z",
+      "last_pushed_at": "2026-10-10T18:25:59.059Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }

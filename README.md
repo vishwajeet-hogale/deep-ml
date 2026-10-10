@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 67 problems · 9 labs · 0 math
+**77** solved · 68 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-06 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-02-04 | [solution](problems/0094-implement-multi-head-attention) |
 | [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-10-10 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
+| [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-10 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 
 ## Labs
 

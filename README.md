@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 69 problems · 9 labs · 0 math
+**81** solved · 72 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-01 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-02-03 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-02-03 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-11 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-09 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-06 | [solution](problems/1232-conv2d-output-shape) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-06 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
@@ -26,11 +27,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-06 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-09 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-09 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-11 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-08-10 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-02-03 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-03 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-06 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-02-01 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-11 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-07-12 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-31 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-17 | [solution](problems/0014-linear-regression-using-normal-equation) |

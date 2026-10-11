@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**77** solved · 68 problems · 9 labs · 0 math
+**78** solved · 69 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-03-16 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-09 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-06 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Hybrid Vision Transformer for Multi-Task Driving Perception](https://www.deep-ml.com/problems/690) | hard | 2026-10-11 | [solution](problems/0690-hybrid-vision-transformer-for-multi-task-driving-perception) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-02-04 | [solution](problems/0094-implement-multi-head-attention) |
 | [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-10-10 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-10 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |

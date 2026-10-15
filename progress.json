@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:07:05.293Z",
+  "generated_at": "2026-10-15T20:10:36.349Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1105,6 +1105,32 @@
       "last_pushed_at": "2026-10-15T05:06:35.407Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:916": {
+      "kind": "problem",
+      "id": "916",
+      "title": "Implement Triplet Loss",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/916",
+      "path": "problems/0916-implement-triplet-loss",
+      "first_solved_at": "2026-10-15T19:32:35.082Z",
+      "last_pushed_at": "2026-10-15T19:32:35.082Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-10-15T20:09:12.877Z",
+      "last_pushed_at": "2026-10-15T20:09:12.877Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

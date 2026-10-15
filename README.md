@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 78 problems · 9 labs · 0 math
+**88** solved · 79 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-08-09 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Masked Cross-Entropy Loss for Supervised Finetuning](https://www.deep-ml.com/problems/795) | medium | 2026-10-11 | [solution](problems/0795-masked-cross-entropy-loss-for-supervised-finetuning) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-08-09 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-15 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-06 | [solution](problems/1227-numerically-stable-softmax) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-10-06 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-06 | [solution](problems/1219-one-training-step) |

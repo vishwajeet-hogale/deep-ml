@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 80 problems · 9 labs · 0 math
+**90** solved · 81 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-03-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-06 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-03-16 | [solution](problems/0024-single-neuron) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-16 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-03-16 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Anchor Matching via IoU Assignment](https://www.deep-ml.com/problems/1253) | medium | 2026-10-16 | [solution](problems/1253-anchor-matching-via-iou-assignment) |

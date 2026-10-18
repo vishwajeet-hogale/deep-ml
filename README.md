@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 81 problems · 9 labs · 0 math
+**91** solved · 82 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-18 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
 | [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-10-06 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-02-01 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-02-03 | [solution](problems/0320-calculate-perplexity-for-language-models) |
